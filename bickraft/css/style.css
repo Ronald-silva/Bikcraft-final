@@ -1,0 +1,127 @@
+@import "/bickraft/css/global/global.css";
+@import "/bickraft/css/global/header.css";
+@import "/bickraft/css/global/footer.css";
+@import "/bickraft/css/utilitarios/tipografia.css";
+@import "/bickraft/css/utilitarios/cores.css";
+@import "/bickraft/css/utilitarios/componentes.css";
+@import "/bickraft/css/utilitarios/formulario.css";
+@import "/bickraft/css/home/introducao.css";
+@import "/bickraft/css/home/tecnologia.css";
+@import "/bickraft/css/home/parceiros.css";
+@import "/bickraft/css/home/depoimento.css";
+@import "/bickraft/css/bicicletas/bicicletas-lista.css";
+@import "/bickraft/css/bicicletas/bicicletas.css";
+@import "/bickraft/css/seguros/seguros.css";
+@import "/bickraft/css/seguros/perguntas.css";
+@import "/bickraft/css/seguros/seguro.css";
+@import "/bickraft/css/bicicleta/seguro.css";
+@import "/bickraft/css/termos/termos.css";
+@import "/bickraft/css/bicicletas/bicicletas.css";
+@import "/bickraft/css/contato/contato.css";
+@import "/bickraft/css/contato/lojas.css";
+@import "/bickraft/css/oncamento/orcamento.css";
+
+
+
+
+/**
+body { 
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+ul,
+p  {
+    margin: 0px;
+     
+}
+ul {
+    padding: 0px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-bg {
+    background-color: #000000;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+
+}
+
+.header-menu a {
+    display: inline-block;
+    padding: 16px 0;
+    color: #ffff;
+    position: relative;
+}
+
+.header-menu a::after {
+    content: "";
+    display: block;
+    height: 2px;
+    width: 0px;
+    background-color: #ffff;
+    margin-top: 4px;
+    transition: 0.3s;
+    position: absolute;
+}
+
+.header-menu a:hover::after {
+    width: 100%;
+
+} 
+
+@media (max-width: 800px) {
+    .header-menu {
+        gap: 20px;
+    }
+    .header-menu a {
+        background: #111111;
+        padding: 12px 16px;
+        border-radius: 5px;
+    }
+    .header-menu a:hover {
+        background: #2e2e2e;
+    }
+
+}
+@media (max-width: 600px) {
+    .header-menu {
+        gap: 12px;
+    }
+
+    .header-menu a {
+        padding: 8px 12px;
+        font-size: 14px;
+        
+    }
+
+
+}
+**/
+
+
+
+
+
+
+
